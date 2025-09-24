@@ -22,6 +22,7 @@ A collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RUTUPARNk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RUTUPARNk/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2429-design-a-food-rating-system](https://github.com/RUTUPARNk/leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Design
@@ -39,4 +40,12 @@ A collection of LeetCode questions
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/RUTUPARNk/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/RUTUPARNk/leetcode/tree/master/3678-design-task-manager) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RUTUPARNk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RUTUPARNk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
