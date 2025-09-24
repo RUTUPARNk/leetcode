@@ -13,6 +13,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/RUTUPARNk/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/RUTUPARNk/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/RUTUPARNk/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2429-design-a-food-rating-system](https://github.com/RUTUPARNk/leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Design
 |  |
