@@ -24,6 +24,7 @@ A collection of LeetCode questions
 | ------- |
 | [0011-container-with-most-water](https://github.com/RUTUPARNk/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RUTUPARNk/leetcode/tree/master/0015-3sum) |
+| [0120-triangle](https://github.com/RUTUPARNk/leetcode/tree/master/0120-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RUTUPARNk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RUTUPARNk/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2429-design-a-food-rating-system](https://github.com/RUTUPARNk/leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -65,4 +66,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/RUTUPARNk/leetcode/tree/master/0155-min-stack) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/RUTUPARNk/leetcode/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
