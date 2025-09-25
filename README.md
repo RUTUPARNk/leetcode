@@ -22,6 +22,7 @@ A collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RUTUPARNk/leetcode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RUTUPARNk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RUTUPARNk/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2429-design-a-food-rating-system](https://github.com/RUTUPARNk/leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -43,9 +44,14 @@ A collection of LeetCode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RUTUPARNk/leetcode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RUTUPARNk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RUTUPARNk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/RUTUPARNk/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
