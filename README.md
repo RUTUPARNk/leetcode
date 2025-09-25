@@ -30,6 +30,7 @@ A collection of LeetCode questions
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/RUTUPARNk/leetcode/tree/master/0155-min-stack) |
 | [2429-design-a-food-rating-system](https://github.com/RUTUPARNk/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/RUTUPARNk/leetcode/tree/master/3678-design-task-manager) |
 ## Heap (Priority Queue)
@@ -60,4 +61,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RUTUPARNk/leetcode/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/RUTUPARNk/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
