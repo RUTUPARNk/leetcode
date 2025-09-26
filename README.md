@@ -13,6 +13,7 @@ A collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/RUTUPARNk/leetcode/tree/master/0050-powx-n) |
 | [0166-fraction-to-recurring-decimal](https://github.com/RUTUPARNk/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RUTUPARNk/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## String
@@ -85,4 +86,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/RUTUPARNk/leetcode/tree/master/0076-minimum-window-substring) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/RUTUPARNk/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
