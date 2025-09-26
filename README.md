@@ -17,6 +17,7 @@ A collection of LeetCode questions
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RUTUPARNk/leetcode/tree/master/0020-valid-parentheses) |
 | [0166-fraction-to-recurring-decimal](https://github.com/RUTUPARNk/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [2429-design-a-food-rating-system](https://github.com/RUTUPARNk/leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Array
@@ -65,6 +66,7 @@ A collection of LeetCode questions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RUTUPARNk/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/RUTUPARNk/leetcode/tree/master/0155-min-stack) |
 ## Dynamic Programming
 |  |
