@@ -6,6 +6,7 @@ A collection of LeetCode questions
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/RUTUPARNk/leetcode/tree/master/0076-minimum-window-substring) |
 | [0166-fraction-to-recurring-decimal](https://github.com/RUTUPARNk/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [2429-design-a-food-rating-system](https://github.com/RUTUPARNk/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/RUTUPARNk/leetcode/tree/master/3678-design-task-manager) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RUTUPARNk/leetcode/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/RUTUPARNk/leetcode/tree/master/0076-minimum-window-substring) |
 | [0166-fraction-to-recurring-decimal](https://github.com/RUTUPARNk/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/RUTUPARNk/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2429-design-a-food-rating-system](https://github.com/RUTUPARNk/leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -79,4 +81,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0120-triangle](https://github.com/RUTUPARNk/leetcode/tree/master/0120-triangle) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/RUTUPARNk/leetcode/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
