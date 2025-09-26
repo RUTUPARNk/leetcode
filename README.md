@@ -19,6 +19,7 @@ A collection of LeetCode questions
 | ------- |
 | [0020-valid-parentheses](https://github.com/RUTUPARNk/leetcode/tree/master/0020-valid-parentheses) |
 | [0166-fraction-to-recurring-decimal](https://github.com/RUTUPARNk/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/RUTUPARNk/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2429-design-a-food-rating-system](https://github.com/RUTUPARNk/leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Array
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions
 | ------- |
 | [0020-valid-parentheses](https://github.com/RUTUPARNk/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/RUTUPARNk/leetcode/tree/master/0155-min-stack) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/RUTUPARNk/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
