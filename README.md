@@ -15,6 +15,7 @@ A collection of LeetCode questions
 | ------- |
 | [0050-powx-n](https://github.com/RUTUPARNk/leetcode/tree/master/0050-powx-n) |
 | [0166-fraction-to-recurring-decimal](https://github.com/RUTUPARNk/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0830-largest-triangle-area](https://github.com/RUTUPARNk/leetcode/tree/master/0830-largest-triangle-area) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RUTUPARNk/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions
 | [0120-triangle](https://github.com/RUTUPARNk/leetcode/tree/master/0120-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RUTUPARNk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/RUTUPARNk/leetcode/tree/master/0611-valid-triangle-number) |
+| [0830-largest-triangle-area](https://github.com/RUTUPARNk/leetcode/tree/master/0830-largest-triangle-area) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RUTUPARNk/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2429-design-a-food-rating-system](https://github.com/RUTUPARNk/leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Design
@@ -90,4 +92,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/RUTUPARNk/leetcode/tree/master/0050-powx-n) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/RUTUPARNk/leetcode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
