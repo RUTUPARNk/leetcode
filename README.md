@@ -22,6 +22,7 @@ A collection of LeetCode questions
 | ------- |
 | [0020-valid-parentheses](https://github.com/RUTUPARNk/leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/RUTUPARNk/leetcode/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/RUTUPARNk/leetcode/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/RUTUPARNk/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/RUTUPARNk/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2429-design-a-food-rating-system](https://github.com/RUTUPARNk/leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions
 | ------- |
 | [0011-container-with-most-water](https://github.com/RUTUPARNk/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RUTUPARNk/leetcode/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/RUTUPARNk/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RUTUPARNk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/RUTUPARNk/leetcode/tree/master/0611-valid-triangle-number) |
 ## Binary Search
