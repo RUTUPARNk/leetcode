@@ -35,6 +35,7 @@ A collection of LeetCode questions
 | [0120-triangle](https://github.com/RUTUPARNk/leetcode/tree/master/0120-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RUTUPARNk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/RUTUPARNk/leetcode/tree/master/0611-valid-triangle-number) |
+| [0739-daily-temperatures](https://github.com/RUTUPARNk/leetcode/tree/master/0739-daily-temperatures) |
 | [0830-largest-triangle-area](https://github.com/RUTUPARNk/leetcode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/RUTUPARNk/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/RUTUPARNk/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions
 | ------- |
 | [0020-valid-parentheses](https://github.com/RUTUPARNk/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/RUTUPARNk/leetcode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/RUTUPARNk/leetcode/tree/master/0739-daily-temperatures) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/RUTUPARNk/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Dynamic Programming
 |  |
@@ -104,4 +106,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/RUTUPARNk/leetcode/tree/master/0830-largest-triangle-area) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/RUTUPARNk/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
