@@ -37,6 +37,7 @@ A collection of LeetCode questions
 | [0611-valid-triangle-number](https://github.com/RUTUPARNk/leetcode/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/RUTUPARNk/leetcode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/RUTUPARNk/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/RUTUPARNk/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RUTUPARNk/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2429-design-a-food-rating-system](https://github.com/RUTUPARNk/leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Design
@@ -90,6 +91,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0120-triangle](https://github.com/RUTUPARNk/leetcode/tree/master/0120-triangle) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/RUTUPARNk/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 ## Sliding Window
 |  |
 | ------- |
