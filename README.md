@@ -72,6 +72,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RUTUPARNk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/RUTUPARNk/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0611-valid-triangle-number](https://github.com/RUTUPARNk/leetcode/tree/master/0611-valid-triangle-number) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RUTUPARNk/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Sorting
@@ -122,4 +123,16 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/RUTUPARNk/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/RUTUPARNk/leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/RUTUPARNk/leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/RUTUPARNk/leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
