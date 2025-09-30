@@ -39,6 +39,7 @@ A collection of LeetCode questions
 | [0739-daily-temperatures](https://github.com/RUTUPARNk/leetcode/tree/master/0739-daily-temperatures) |
 | [0830-largest-triangle-area](https://github.com/RUTUPARNk/leetcode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/RUTUPARNk/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/RUTUPARNk/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/RUTUPARNk/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RUTUPARNk/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/RUTUPARNk/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RUTUPARNk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/RUTUPARNk/leetcode/tree/master/0611-valid-triangle-number) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/RUTUPARNk/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Sorting
 |  |
 | ------- |
