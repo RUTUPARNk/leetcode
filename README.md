@@ -109,6 +109,7 @@ A collection of LeetCode questions
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/RUTUPARNk/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/RUTUPARNk/leetcode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/RUTUPARNk/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RUTUPARNk/leetcode/tree/master/0206-reverse-linked-list) |
 ## Geometry
 |  |
@@ -144,5 +145,6 @@ A collection of LeetCode questions
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/RUTUPARNk/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RUTUPARNk/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/RUTUPARNk/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RUTUPARNk/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
