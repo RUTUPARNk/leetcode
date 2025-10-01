@@ -107,6 +107,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/RUTUPARNk/leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/RUTUPARNk/leetcode/tree/master/0206-reverse-linked-list) |
 ## Geometry
 |  |
 | ------- |
@@ -135,4 +136,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/RUTUPARNk/leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/RUTUPARNk/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
