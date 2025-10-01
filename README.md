@@ -18,6 +18,7 @@ A collection of LeetCode questions
 | [0830-largest-triangle-area](https://github.com/RUTUPARNk/leetcode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/RUTUPARNk/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RUTUPARNk/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1642-water-bottles](https://github.com/RUTUPARNk/leetcode/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/RUTUPARNk/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## String
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/RUTUPARNk/leetcode/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/RUTUPARNk/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Combinatorics
 |  |
