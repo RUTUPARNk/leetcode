@@ -7,6 +7,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/RUTUPARNk/leetcode/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/RUTUPARNk/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0166-fraction-to-recurring-decimal](https://github.com/RUTUPARNk/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [2429-design-a-food-rating-system](https://github.com/RUTUPARNk/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/RUTUPARNk/leetcode/tree/master/3678-design-task-manager) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RUTUPARNk/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/RUTUPARNk/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RUTUPARNk/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/RUTUPARNk/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/RUTUPARNk/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/RUTUPARNk/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RUTUPARNk/leetcode/tree/master/0206-reverse-linked-list) |
