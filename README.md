@@ -31,6 +31,7 @@ A collection of LeetCode questions
 | [0166-fraction-to-recurring-decimal](https://github.com/RUTUPARNk/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/RUTUPARNk/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2429-design-a-food-rating-system](https://github.com/RUTUPARNk/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/RUTUPARNk/leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Array
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions
 | [1642-water-bottles](https://github.com/RUTUPARNk/leetcode/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/RUTUPARNk/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/RUTUPARNk/leetcode/tree/master/3336-water-bottles-ii) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/RUTUPARNk/leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Combinatorics
 |  |
 | ------- |
