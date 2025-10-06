@@ -192,4 +192,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/RUTUPARNk/leetcode/tree/master/0794-swim-in-rising-water) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/RUTUPARNk/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
