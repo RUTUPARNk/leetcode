@@ -9,6 +9,7 @@ A collection of LeetCode questions
 | [0076-minimum-window-substring](https://github.com/RUTUPARNk/leetcode/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/RUTUPARNk/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0166-fraction-to-recurring-decimal](https://github.com/RUTUPARNk/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [1612-avoid-flood-in-the-city](https://github.com/RUTUPARNk/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2429-design-a-food-rating-system](https://github.com/RUTUPARNk/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/RUTUPARNk/leetcode/tree/master/3678-design-task-manager) |
 ## Math
@@ -50,6 +51,7 @@ A collection of LeetCode questions
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RUTUPARNk/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/RUTUPARNk/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RUTUPARNk/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1612-avoid-flood-in-the-city](https://github.com/RUTUPARNk/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/RUTUPARNk/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/RUTUPARNk/leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Design
@@ -63,6 +65,7 @@ A collection of LeetCode questions
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/RUTUPARNk/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/RUTUPARNk/leetcode/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/RUTUPARNk/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2429-design-a-food-rating-system](https://github.com/RUTUPARNk/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/RUTUPARNk/leetcode/tree/master/3678-design-task-manager) |
 ## Ordered Set
@@ -90,6 +93,7 @@ A collection of LeetCode questions
 | [0611-valid-triangle-number](https://github.com/RUTUPARNk/leetcode/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/RUTUPARNk/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RUTUPARNk/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1612-avoid-flood-in-the-city](https://github.com/RUTUPARNk/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 ## Sorting
 |  |
 | ------- |
@@ -104,6 +108,7 @@ A collection of LeetCode questions
 | [0455-assign-cookies](https://github.com/RUTUPARNk/leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/RUTUPARNk/leetcode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/RUTUPARNk/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1612-avoid-flood-in-the-city](https://github.com/RUTUPARNk/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 ## Stack
 |  |
 | ------- |
