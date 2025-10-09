@@ -54,6 +54,7 @@ A collection of LeetCode questions
 | [1612-avoid-flood-in-the-city](https://github.com/RUTUPARNk/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/RUTUPARNk/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/RUTUPARNk/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/RUTUPARNk/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Design
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions
 | [2324-find-triangular-sum-of-an-array](https://github.com/RUTUPARNk/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/RUTUPARNk/leetcode/tree/master/3336-water-bottles-ii) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/RUTUPARNk/leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/RUTUPARNk/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Combinatorics
 |  |
 | ------- |
@@ -201,4 +203,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/RUTUPARNk/leetcode/tree/master/0175-combine-two-tables) |
+## Prefix Sum
+|  |
+| ------- |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/RUTUPARNk/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 <!---LeetCode Topics End-->
